@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(149, 0, 100);
+}
+button {
+  background-color: teal;
+  color: yellowgreen;
+}
+body {
+  background-color: mediumaquamarine;
+}
+p {
+  color: coral;
+  background-color: cyan;
+}
