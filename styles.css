@@ -1,28 +1,31 @@
-h1 {
-  color: rgb(149, 0, 100);
-}
-button {
-  color: yellowgreen;
-}
 body {
-  background-color: lightskyblue;
+  background-color: #e7d9ea;
 }
+
+h1 {
+  color: #11698e;
+}
+
 p {
-  color: coral;
+  color: #16c79a;
 }
 
 img {
-  
+
   height: 300px;
   width: 300px;
+}
+
+h2 {
+  color: #19456b;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color:lightgray;
+  border-color: lightgray;
   width: 30%;
   border-width: 12px;
-  
-  
+
+
 }
