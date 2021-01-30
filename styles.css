@@ -5,10 +5,16 @@ body {
 
 h1 {
   color: #cbeaed;
+  font-size: 100px;
 }
 
 p {
   color: #ffffdd;
+}
+
+em {
+  color: lime;
+  font-size: larger;
 }
 
 img {
@@ -22,9 +28,9 @@ h2 {
 }
 
 hr {
+  border-color: lightgray;
   border-style: none;
   border-top-style: dotted;
-  border-color: lightgray;
-  width: 30%;
   border-width: 12px;
+  width: 30%;
 }
