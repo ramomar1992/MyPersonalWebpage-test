@@ -1,13 +1,14 @@
 body {
-  background-color: #e7d9ea;
+  background-color: #845ec2;
+  color: #ff5e78;
 }
 
 h1 {
-  color: #11698e;
+  color: #ffc75f;
 }
 
 p {
-  color: #16c79a;
+  color: #ff5e78;
 }
 
 img {
@@ -17,7 +18,7 @@ img {
 }
 
 h2 {
-  color: #19456b;
+  color: #f9f871;
 }
 
 hr {
@@ -26,6 +27,4 @@ hr {
   border-color: lightgray;
   width: 30%;
   border-width: 12px;
-
-
 }
