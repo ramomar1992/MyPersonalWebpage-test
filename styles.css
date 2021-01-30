@@ -2,13 +2,27 @@ h1 {
   color: rgb(149, 0, 100);
 }
 button {
-  background-color: teal;
   color: yellowgreen;
 }
 body {
-  background-color: mediumaquamarine;
+  background-color: lightskyblue;
 }
 p {
   color: coral;
-  background-color: cyan;
+}
+
+img {
+  
+  height: 300px;
+  width: 300px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:lightgray;
+  width: 30%;
+  border-width: 12px;
+  
+  
 }
